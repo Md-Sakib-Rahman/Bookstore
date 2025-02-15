@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { Link, Links } from 'react-router'
+import { Link } from 'react-router'
 import { HiOutlineBars3CenterLeft } from "react-icons/hi2";
 import { FaSearch, FaShoppingCart, FaRegHeart, FaRegUser } from "react-icons/fa";
 import avatarImg from "../assets/avatar.png";

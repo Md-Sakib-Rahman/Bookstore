@@ -42,7 +42,7 @@
 
 /* Custom button styles */
 .btn-primary {
-  background-color: rgb(var(--color-primary)); /* bg-primary */
+  background-color: #FFCE1A; /* bg-primary */
   padding: 0.5rem 3rem; /* px-12 py-2 */
   border-radius: 0.375rem; /* rounded-md */
   font-size: 1rem; /* text-base */
@@ -53,7 +53,7 @@
 }
 
 .btn-primary:hover {
-  background-color: rgb(var(--color-secondary)); /* hover:bg-secondary */
+  background-color: #0D0842; /* hover:bg-secondary */
   color: white; /* hover:text-white */
 }
 
